@@ -1,8 +1,8 @@
 Hello, this is Ren. 
 
-1. I am currently a data scientist at NielsenIQ BASES, working on building forecasting tools using machine learning. 
-2. Before Nielsen, I worked for IBM on data engineering and DevOps.
-3. I studied information science and statistics in graduate school, language and literature in undergrad, and I participated in competitive programming in middle school.
+1. I am currently a software engineer, improving the query understanding for Google search. Feel free to drop me note if we can't find you what you search for, we'd love to improve on it. 
+2. I love capentry and woodworking, and I am the excutive asistant to my wife on gardening, landscaping. 
+3. I have two kiddos and three cats. 
 
 ![Ren's github stats](https://github-readme-stats.vercel.app/api?username=ryancheunggit&count_private=true&show_icons=true&hide=contribs,prs,issues)
 
