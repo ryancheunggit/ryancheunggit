@@ -1,6 +1,6 @@
 Hello, this is Ren. 
 
-1. I am currently a software engineer, improving the query understanding for Google search. Feel free to drop me note if we can't find you what you search for, we'd love to improve on it. 
+1. I am currently a software engineer, improving the query understanding for Google search. 
 2. I love capentry and woodworking, and I am the excutive asistant to my wife on gardening, landscaping. 
 3. I have two kiddos and three cats. 
 
