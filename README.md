@@ -1,7 +1,7 @@
 Hello, this is Ren. 
 
-1. I am currently a software engineer, improving the query understanding for Google search. 
-2. I love capentry and woodworking, and I am the excutive asistant to my wife on gardening, landscaping. 
+1. I am currently a software engineer, improving the query understanding for Google search ranking. My intrest is applying machine learning to improve user experiences.  
+2. I love capentry and woodworking, and I am the excutive asistant to my wife on gardening and landscaping. 
 3. I have two kiddos and three cats. 
 
 ![Ren's github stats](https://github-readme-stats.vercel.app/api?username=ryancheunggit&count_private=true&show_icons=true&hide=contribs,prs,issues)
